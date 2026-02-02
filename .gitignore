@@ -1,0 +1,32 @@
+# Environment
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Generated content
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+output/
+generated/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
